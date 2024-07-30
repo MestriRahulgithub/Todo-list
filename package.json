@@ -2,7 +2,7 @@
   "name": "my-bootstrap-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/MestriRahulgithub/Todo-list.js.git"
+  "homepage": "https://github.com/MestriRahulgithub/Todo-list-react-js.git"
 ,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
